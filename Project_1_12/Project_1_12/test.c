@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 
+//≥ı ∂C”Ô—‘(2)
 #include <stdio.h>
 #include <string.h>
 //int num = 10;
